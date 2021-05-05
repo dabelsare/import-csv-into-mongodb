@@ -3,6 +3,7 @@
 Prerequisites:
 
 a. Nodejs installed on your local machine - https://nodejs.org/
+
 b. MongoDB installed on your local machine - https://www.mongodb.com
 
 1. Install packages "csvtojson" and "mongodb" using the following command:
